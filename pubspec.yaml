@@ -1,0 +1,40 @@
+name: cvapp
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  curved_navigation_bar: ^1.0.3
+  flutter:
+    sdk: flutter
+  flutter_slider_drawer: ^2.1.3
+  http: ^1.1.0
+  image_picker: ^1.0.4
+  navbar_router: ^0.6.3
+  shared_preferences: ^2.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib\assets\imges\img1.png
+    - lib\assets\imges\img2.png
+    - lib\assets\imges\img3.png
+    - lib\assets\imges\img4.png
+    - lib\assets\imges\img5.png
+    - lib\assets\imges\img6.png
+    - lib\assets\imges\img7.png
+    - lib\assets\imges\img8.png
+    - lib\assets\imges\img9.png
+
+   
+    
+
+    
